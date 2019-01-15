@@ -1,2 +1,4 @@
 # DivanHafezAudio
-اشعار دیوان حاظ با صدای علی موسوی گرمارودی
+اشعار دیوان حافظ با صدای علی موسوی گرمارودی
+
+The poems of Divan Hafiz with the voice of Ali Mousavi Garmaroudi
